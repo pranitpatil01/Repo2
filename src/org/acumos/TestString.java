@@ -9,6 +9,7 @@ public class TestString {
 		String [] str= new String [] {"perfomance", "getmodels"};
 		
 		System.err.println(Arrays.toString(str));
+		System.out.println("HIIIII");
 		
 	}
 
