@@ -21,6 +21,9 @@ public class TestConfusion {
 		ConfusionMetrics2 confusion= new ConfusionMetrics2();
 		confusion.getConfusionMatrix2(truthvalue, predictionvalue);
 		System.err.println(confusion);
+		
+		
+		System.err.println("HIIIIII");
 
 	}
 
